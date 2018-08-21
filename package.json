@@ -1,6 +1,6 @@
 {
   "name": "uspeed",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Your speed meter inline | debug",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/slavahatnuke/uspeed.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["debug", "speed", "meter", "request-per-second"],
+  "author": "slava hatnuke",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/slavahatnuke/uspeed/issues"
