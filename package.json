@@ -1,6 +1,6 @@
 {
   "name": "uspeed",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Your speed meter inline | debug",
   "main": "index.js",
   "scripts": {

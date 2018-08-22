@@ -14,6 +14,8 @@ while (i--) {
 
 ```
 
+![uspeed](./demo-uspeed.gif)
+
 #### Usage
 ```
 export DEBUG=speed:*
